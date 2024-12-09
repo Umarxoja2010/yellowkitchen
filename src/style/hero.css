@@ -1,0 +1,65 @@
+.hero{
+    margin-bottom: 50px;
+}
+.hero_wrapper{
+    display: flex;
+    align-items: center;
+    gap: 70px;
+    position: relative;
+}
+.hero_content h2{
+    font-family: var(--second-family);
+    font-weight: 300;
+    font-size: 58px;
+    line-height: 110%;
+    letter-spacing: 0.05em;
+    color: var(--gray-dark);
+    margin-bottom: 88px;
+}
+.hero_content button{
+    border: 2px solid var(--brand-yellow-bright);
+    border-radius: 4px;
+    padding: 16px 24px;
+    width: 117px;
+    height: 72px;
+    
+}
+.hero_content button h5{
+    font-family: var(--font-family);
+font-weight: 700;
+font-size: 16px;
+line-height: 125%;
+letter-spacing: 0.03em;
+text-align: center;
+color: var(--gray-dark);
+}
+.hero_content button span{
+    font-weight: 400;
+font-size: 10px;
+line-height: 133%;
+}
+.hero_content div{
+display: flex;
+align-items: center;
+gap: 24px;
+}
+.hero_pas{
+    display: flex;
+    align-items: center;
+    gap: 46px;
+    width: 872px;
+height: 104px;
+}
+.hero_pas div p{
+    font-family: var(--font-family);
+font-weight: 300;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.03em;
+color: var(--gray-dark);
+}
+.hero_pas div{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}

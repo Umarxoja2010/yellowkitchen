@@ -1,0 +1,28 @@
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.container{
+    max-width: 1276px;
+    width: 100%;
+    padding: 0 10px ;
+    margin: 0 auto;
+}
+:root {
+	--white: #fff;
+	--text-dark: #313030;
+	--gray-dark: #3f4255;
+	--gray-second-text: #9093a6;
+	--gray-light: #d4d7e5;
+	--gray-bg: #f2f4fa;
+	--brand-yellow-bright: #ffe145;
+	--brand-yellow-dark: #b79c10;
+	--brand-yellow-light: #fff7cc;
+    :root {
+        --font-family: "Martel Sans", sans-serif;
+        --second-family: "Poppins", sans-serif;
+        --third-family: "Open Sans Condensed", sans-serif;
+      }
+}

@@ -1,0 +1,60 @@
+.bagel{
+margin-bottom: 72px;
+}
+.bagel_top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 48px;
+}
+.bagel_top h2{
+    font-family: var(--second-family);
+font-weight: 300;
+font-size: 36px;
+line-height: 178%;
+letter-spacing: 0.08em;
+color: var(--gray-dark);
+}
+.bagel_top button{
+    font-family: var(--font-family);
+font-weight: 700;
+font-size: 16px;
+line-height: 125%;
+letter-spacing: 0.03em;
+text-align: center;
+color: var(--gray-second-text);
+border-radius: 4px;
+width: 118px;
+height: 48px;
+border-radius: 4px;
+padding: 16px 24px;
+width: 118px;
+height: 48px;
+border: none;
+}
+.bagel_wrapper{
+display: flex;
+align-items: center;
+gap: 24px;
+}
+.bagel_card{
+    border-radius: 6px;
+width: 136px;
+height: 136px;
+box-shadow: 0 2px 16px 0 rgba(60, 62, 74, 0.08);
+background: var(--white);
+}
+.bagel_card span
+{
+    font-family: var(--font-family);
+font-weight: 300;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.03em;
+text-align: center;
+color: var(--text-dark);
+display: block;
+}
+.bagel_card img{
+    padding: 24px 44px 16px 44px ;
+}

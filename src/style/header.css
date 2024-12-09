@@ -1,0 +1,27 @@
+.header{
+    margin-bottom: 25px;
+}
+.header_wrapper{
+    padding: 14px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header_oxir{
+    display: flex;
+    align-items: center;
+gap: 48px;
+}
+.header_oxir span{
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 125%;
+    letter-spacing: 0.03em;
+    color: var(--gray-second-text);
+}
+.header_oxir div{
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}

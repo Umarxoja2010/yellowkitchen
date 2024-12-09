@@ -1,0 +1,22 @@
+.insta{
+    margin-bottom: 72px;
+    margin-top: 72px;
+}
+.insta_top h2{
+    font-family: var(--second-family);
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 178%;
+    letter-spacing: 0.08em;
+    color: var(--text-dark);
+    margin-bottom: 21px;
+}
+.insta_top span{
+    margin-bottom: 21px;
+    color: var(--gray-second-text);
+}
+.insta_bottom{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
